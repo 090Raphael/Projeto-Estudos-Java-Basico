@@ -1,7 +1,5 @@
 # java-basico
 
-**Repositório para teste e exercícios DIO.**
+**Repositório para teste e exercícios**
 
-**Aulas.**
 
-Dia 1.
